@@ -1,5 +1,5 @@
 # BrightPath
-Because even students need a hand.
+> Because even students need a hand.
 
 ## License
-TBD
+BrightPath is licensed under the [GNU General Public License](./LICENSE)
