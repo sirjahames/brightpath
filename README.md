@@ -1,2 +1,5 @@
-# brightpath
-BrightPath is a productivity assistant for students.
+# BrightPath
+Because even students need a hand.
+
+## License
+TBD
